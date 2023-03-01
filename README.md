@@ -1,0 +1,1 @@
+Take home exams for the course CENG499 - Introduction to Machine Learning. All four homeworks have one assignment text and zero or more report pdfs with corresponding source files (only `hw4` does not have any report).
