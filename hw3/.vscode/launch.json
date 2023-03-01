@@ -1,0 +1,26 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Part2",
+            "type": "python",
+            "request": "launch",
+            "program": "svm_dataset2.py",
+            "cwd": "${workspaceFolder}/Part2",
+            "console": "integratedTerminal",
+            "justMyCode": false
+        },
+        {
+            "name": "Python: Part3",
+            "type": "python",
+            "request": "launch",
+            "program": "part3.py",
+            "cwd": "${workspaceFolder}/Part3",
+            "console": "integratedTerminal",
+            "justMyCode": false
+        },
+    ]
+}
